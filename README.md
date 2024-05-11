@@ -1,6 +1,6 @@
 # LBS_TRACKER
 
-## Começando de Novo com o LBS Tracker
+## Novo LBS Tracker
 
 **Prezado(a) Usuário(a),**
 
