@@ -45,4 +45,4 @@ Seja bem-vindo(a) ao LBS Tracker! Este modelo utiliza técnicas avançadas de ma
 
 **Esperamos que esta versão aprimorada do LBS Tracker seja ainda mais útil para você!**
 
-## Texto parcialemnte gerado pelo Gemini
+## Texto parcialmente gerado pelo Gemini
