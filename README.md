@@ -28,7 +28,9 @@ Seja bem-vindo(a) ao LBS Tracker! Este modelo utiliza técnicas avançadas de ma
 * A ausência de sinal GPS pode limitar a precisão da estimativa de localização.
 * O LBS Tracker Aprimorado ainda está em desenvolvimento e pode ser aprimorado com o tempo.
 * Apesar do Gemini conseguir calcular a localização estimada ele carece dados suficentes. Será necessário introduzir a base de dados de ERB (estações rádio base) da Anatel para que a IA do Gemini consiga realizar este cáculo.
-* Os dados estão disponíveis em: https://informacoes.anatel.gov.br/paineis/outorga-e-licenciamento/estacoes-do-smp
+* Os dados estão disponíveis em:
+* https://informacoes.anatel.gov.br/paineis/outorga-e-licenciamento/estacoes-do-smp
+* https://sistemas.anatel.gov.br/se/public/view/b/licenciamento.php
 * Envolvimento do time do Google é necessário
 
 **Estamos à disposição para auxiliar em qualquer dúvida ou necessidade adicional.**
